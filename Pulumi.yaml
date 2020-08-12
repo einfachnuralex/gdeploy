@@ -1,0 +1,6 @@
+name: gdeploy
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Base infra
